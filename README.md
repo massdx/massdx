@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm ODANOU Massahoud</h1>
 <h3 align="center">A passionate frontend developer and Ui desinger from Togo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=massdx" alt="massdx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/massahoudfx" target="blank"><img src="https://img.shields.io/twitter/follow/massahoudfx?logo=twitter&style=for-the-badge" alt="massahoudfx" /></a> </p>
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on **React js / Next js /typescript project**
+- 👯 I’m looking to collaborate on **React js / Next js/ flutter / Typescript project**
 
 - 💬 Ask me about **React js , Flutter**
 
