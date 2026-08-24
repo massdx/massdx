@@ -25,8 +25,8 @@
 
 ### 🤙 Let's talk
 Open to collaborations, honest feedback, or just a good tech meme.
--  mass-dev.vercel.app
--  linkedin.com/in/massdx
+-  [mass-dev.vercel.app]
+-  [linkedin.com/in/massdx]
 - 🐦 @itzmassdx
 
 ---
