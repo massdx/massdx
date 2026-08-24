@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Massahoud — aka Massdx
+# Hey, I'm Massahoud — aka Massdx
 
 **Creative Frontend Engineer** — I turn interfaces into experiences. I blend pixel-perfect design with solid JavaScript, with a soft spot for transitions that make you go *wow* (not *ugh*).
 
-🏆 Awwwards Young Jury '25 · 🌍 Building from Lomé, Togo · 💬 Friends of Figma Lomé lead
+Awwwards Young Jury '25 · Building from Lomé, Togo · Friends of Figma Lomé member
 
 **🟢 Open to remote & freelance roles in creative frontend / motion engineering**
 
@@ -32,11 +32,11 @@
 - Bridging design and engineering
 - Learning constantly, questioning defaults, shipping fast
 
-### 🚀 Featured work
+###  Featured work
 - **Deskraft** — real-time 3D workspace configurator built with React + Three.js → `space-3d-challenge`
 - **Design Atlas** — open-source catalog for discovering & sharing design and web resources → `design-atlas`
 
-### 🤙 Let's talk
+###  Let's talk
 Open to collaborations, honest feedback, or just a good tech meme.
 
 <p>
