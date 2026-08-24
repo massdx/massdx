@@ -1,36 +1,33 @@
+# 👋 Hey, I'm Massahoud — aka Massdx
 
-# 👋 Salut, moi c’est Massahoud (alias Massdx)
+**Creative Frontend Engineer** — I turn interfaces into experiences. I blend pixel-perfect design with solid JavaScript, with a soft spot for transitions that make you go *wow* (not *ugh*).
 
-🎯 **UI Engineer & React Developer** — j’assemble du pixel parfait et du JS solide, avec un bon goût pour les transitions qui font *wow* sans faire *ouin*.
-
----
-
-### 🛠️ Ce que je fais
-
-- Frontend addict — React.js, Next.js, Tailwind, Framer Motion dans les veines.
-- Designer de l’expérience — j’utilise Figma comme une extension de mes neurones.
-- Interfaces fluides — du mobile au desktop, je construis des apps qui respirent.
-- UX-first mindset — je code pas des composants, je construis des parcours.
+🏆 Awwwards Young Jury '25 · 🌍 Building from Lomé, Togo · 💬 Friends of Figma Lomé lead
 
 ---
 
-###  Ce qui m’anime
+### 🛠️ What I do
+- **Creative frontend** — React, Next.js, TypeScript, Tailwind
+- **Motion & interaction** — Framer Motion, GSAP, custom micro-interactions
+- **3D & WebGL** — Three.js (see Deskraft, a real-time 3D workspace configurator running in the browser)
+- **Mobile** — React Native / Expo, Reanimated
+- **Design** — Figma, from wireframe to animated prototype. No translator needed between design and dev.
 
-- Rendre les apps vivantes avec des micro-interactions bien senties.
-- Travailler sur des produits qui ont du sens (notamment en Afrique).
-- Faire le pont entre dev et design — plus besoin de traducteur.
-- Apprendre en continu, remettre les certitudes en question, shipper vite.
+### ✨ What drives me
+- Making products feel alive with well-crafted micro-interactions
+- Working on products that matter, especially across Africa
+- Bridging design and engineering
+- Learning constantly, questioning defaults, shipping fast
+
+### 🚀 Featured work
+- **Deskraft** — real-time 3D workspace configurator built with React + Three.js → `space-3d-challenge`
+- **Design Atlas** — open-source catalog for discovering & sharing design and web resources → `design-atlas`
+
+### 🤙 Let's talk
+Open to collaborations, honest feedback, or just a good tech meme.
+-  mass-dev.vercel.app
+-  linkedin.com/in/massdx
+- 🐦 @itzmassdx
 
 ---
-
-### 🤙 Tu veux discuter ?
-
-Je suis ouvert aux collaborations, aux retours francs, ou juste à un bon mème tech.
-
-- 🌐 [https://mass-dev.vercel.app/]
-- 📬 [https://www.linkedin.com/in/massdx]
-- 🎮 Alias de gamer : **skymassfx** (ça va changer 😏)
-
----
-
-> _"Code comme si tu designais. Design comme si tu codais. sky"_
+> *"Code like you design. Design like you code."* — sky
